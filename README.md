@@ -1,2 +1,2 @@
 # rust_book
-Exercises from Rust Book
+Ce dépot contient les extraits de code du live Rust Book (version 2).
